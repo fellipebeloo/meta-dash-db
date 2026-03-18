@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "meta-dash-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "b2c550c9-2c0e-4250-b454-e13c8e92da57",
+			"database_name": "meta-dash-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
